@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FinsMaxValueLoganC\FinsMaxValueLoganC\bin\Debug\FinsMaxValueLoganC.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FinsMaxValueLoganC\FinsMaxValueLoganC\bin\Debug\FinsMaxValueLoganC.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FinsMaxValueLoganC\FinsMaxValueLoganC\bin\Debug\FinsMaxValueLoganC.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FinsMaxValueLoganC\FinsMaxValueLoganC\obj\Debug\FinsMaxValueLoganC.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FinsMaxValueLoganC\FinsMaxValueLoganC\obj\Debug\FinsMaxValueLoganC.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FinsMaxValueLoganC\FinsMaxValueLoganC\obj\Debug\FinsMaxValueLoganC.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FinsMaxValueLoganC\FinsMaxValueLoganC\obj\Debug\FinsMaxValueLoganC.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FinsMaxValueLoganC\FinsMaxValueLoganC\obj\Debug\FinsMaxValueLoganC.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FinsMaxValueLoganC\FinsMaxValueLoganC\obj\Debug\FinsMaxValueLoganC.frmMaxValue.resources

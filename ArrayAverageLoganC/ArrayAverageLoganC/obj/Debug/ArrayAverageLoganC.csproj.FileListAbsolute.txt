@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ArrayAverageLoganC\ArrayAverageLoganC\bin\Debug\ArrayAverageLoganC.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ArrayAverageLoganC\ArrayAverageLoganC\bin\Debug\ArrayAverageLoganC.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ArrayAverageLoganC\ArrayAverageLoganC\bin\Debug\ArrayAverageLoganC.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ArrayAverageLoganC\ArrayAverageLoganC\obj\Debug\ArrayAverageLoganC.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ArrayAverageLoganC\ArrayAverageLoganC\obj\Debug\ArrayAverageLoganC.ArrayAverageForm.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ArrayAverageLoganC\ArrayAverageLoganC\obj\Debug\ArrayAverageLoganC.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ArrayAverageLoganC\ArrayAverageLoganC\obj\Debug\ArrayAverageLoganC.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ArrayAverageLoganC\ArrayAverageLoganC\obj\Debug\ArrayAverageLoganC.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ArrayAverageLoganC\ArrayAverageLoganC\obj\Debug\ArrayAverageLoganC.pdb

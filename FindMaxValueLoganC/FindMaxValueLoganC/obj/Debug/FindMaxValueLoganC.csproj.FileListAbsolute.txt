@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FindMaxValueLoganC\FindMaxValueLoganC\bin\Debug\FindMaxValueLoganC.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FindMaxValueLoganC\FindMaxValueLoganC\bin\Debug\FindMaxValueLoganC.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FindMaxValueLoganC\FindMaxValueLoganC\bin\Debug\FindMaxValueLoganC.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FindMaxValueLoganC\FindMaxValueLoganC\obj\Debug\FindMaxValueLoganC.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FindMaxValueLoganC\FindMaxValueLoganC\obj\Debug\FindMaxValueLoganC.frmMaxValue.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FindMaxValueLoganC\FindMaxValueLoganC\obj\Debug\FindMaxValueLoganC.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FindMaxValueLoganC\FindMaxValueLoganC\obj\Debug\FindMaxValueLoganC.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FindMaxValueLoganC\FindMaxValueLoganC\obj\Debug\FindMaxValueLoganC.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\FindMaxValueLoganC\FindMaxValueLoganC\obj\Debug\FindMaxValueLoganC.pdb

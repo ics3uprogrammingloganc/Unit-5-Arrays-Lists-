@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ListsLoganC\ListsLoganC\bin\Debug\ListsLoganC.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ListsLoganC\ListsLoganC\bin\Debug\ListsLoganC.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ListsLoganC\ListsLoganC\bin\Debug\ListsLoganC.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ListsLoganC\ListsLoganC\obj\Debug\ListsLoganC.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ListsLoganC\ListsLoganC\obj\Debug\ListsLoganC.ListsForm.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ListsLoganC\ListsLoganC\obj\Debug\ListsLoganC.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ListsLoganC\ListsLoganC\obj\Debug\ListsLoganC.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ListsLoganC\ListsLoganC\obj\Debug\ListsLoganC.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Cantin, Logan\Unit 5 (Arrays & Lists)\ListsLoganC\ListsLoganC\obj\Debug\ListsLoganC.pdb
